@@ -1,0 +1,18 @@
+.card-stacked {
+    background-color: #1D005C;
+    border-radius: 20px;
+    box-shadow: inset 20px 10px 10px #030C5C;
+}
+
+.horizontal {
+    background-color: #000;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.card-content {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
